@@ -25,8 +25,10 @@ In this project, my goal is to provide a brief introduction to creating neural n
 - Create SQLite database to save the results;
 A straightforward way to understand how to create and further explore reinforcement learning in games.
 
+## AI is playing
 ![ia](assets/iajoga.png)
 
 ---
 
+## Database Control
 ![performance](assets/performanceia.png)
