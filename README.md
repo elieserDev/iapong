@@ -28,7 +28,5 @@ A straightforward way to understand how to create and further explore reinforcem
 ## AI is playing
 ![ia](assets/iajoga.png)
 
----
-
 ## Database Control
 ![performance](assets/performanceia.png)
