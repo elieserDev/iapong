@@ -29,4 +29,4 @@ A straightforward way to understand how to create and further explore reinforcem
 
 ---
 
-![performance](assets/iajoga.png)
+![performance](assets/performanceia.png)
