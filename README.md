@@ -1,7 +1,7 @@
-# iapong
+# IA Pong
 AI playing pong
 
-Em pt-br:
+pt-br:
 
 Neste projeto, tenho o objetivo de fazer uma breve introdução a criação de redes neurais com numpy.
 Aqui podemos ver como:
@@ -15,7 +15,7 @@ Uma forma simples de entender como criar e como explorar mais sobre aprendizagem
 
 ---
 
-en-us
+en-us:
 
 In this project, my goal is to provide a brief introduction to creating neural networks using numpy. Here we can see how:
 
